@@ -4,7 +4,7 @@
     <div id="actions" :class="{ hidden: curMenu!='actions'}">
     <div class="row" style="width:100%">
       <div class="col-sm-4">
-        This is a test
+        This is a testy test test
       </div>
       <div class="col-sm-8">
         <div id="actions" class="row overflow-auto" style="height:100px">
